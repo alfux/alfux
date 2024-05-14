@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @alfux
+- 👋 Hi, I’m @lfux
 - 👀 I’m interested in maths, music, video games, parties.
-- 🌱 I’m currently learning code.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently developping a video game with some friends.
 - 📫 How to reach me alexis.t.fuchs@gmail.com
 
 <!---
